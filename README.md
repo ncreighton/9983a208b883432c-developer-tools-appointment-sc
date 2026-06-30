@@ -1,0 +1,2 @@
+# 9983a208b883432c-developer-tools-appointment-sc
+Professional developer tools browser extension — without the professional price tag.  Under 1MB. Zero performance impact on browser speed. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Developer Tools Appointment Scheduling And Reminders — fully configured and ready to use - One-click activat
